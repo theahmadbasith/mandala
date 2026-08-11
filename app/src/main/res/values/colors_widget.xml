@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Widget Light Mode Colors -->
+    <color name="widget_bg">#FFFFFF</color>
+    <color name="widget_border">#E2E8F0</color>
+    <color name="widget_inner_bg">#F8FAFC</color>
+    <color name="widget_text_primary">#0F172A</color>
+    <color name="widget_text_secondary">#64748B</color>
+    <color name="widget_icon_tint">#3B82F6</color>
+    <color name="widget_accent">#38BDF8</color>
+    <color name="widget_btn_secondary_bg">#F1F5F9</color>
+</resources>

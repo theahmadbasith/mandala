@@ -1,0 +1,8 @@
+{
+  "name": "Mandala Net",
+  "description": "A comprehensive network utility, VPN firewall, and signal analyzer suite for managing local network traffic, call screening, and mock location capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
